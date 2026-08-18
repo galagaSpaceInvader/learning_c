@@ -1,0 +1,28 @@
+Project: Multiplication Table
+
+Print an N×N multiplication table to the terminal.
+
+Requirements:
+
+Hardcode int n = 10; at the top — changing that one variable should change the whole table
+Each number must be right-aligned so columns line up cleanly
+Rows and columns both go from 1 to n
+
+Expected output for n = 5:
+
+  1  2  3  4  5
+  2  4  6  8 10
+  3  6  9 12 15
+  4  8 12 16 20
+  5 10 15 20 25
+
+What you'll practice:
+
+Nested for loops
+printf format widths (%3d etc.)
+How two loop variables interact to produce a value
+
+Rules:
+
+No functions, no arrays — just loops and printf
+Everything in main()
